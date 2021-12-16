@@ -11,7 +11,7 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
   <b><a href="https://twitter.com/charpeni_">Twitter</a></b>  |
-  <b><a href="https://www.linkedin.com/in/nicolas-charpentier-8a2b8a104/">Linkedin</a></b> |
+  <b><a href="https://www.linkedin.com/in/nicolas-charpentier-8a2b8a104/">LinkedIn</a></b> |
   <b><a href="https://charpeni.com">Personal Website</a></b>
 </p>
  
