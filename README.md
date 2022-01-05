@@ -2,7 +2,7 @@
 
 I'm mainly playing with React Native, React, GraphQL, and various Continuous Integrations. I'm an open-source enthusiast (of course!), and I enjoy removing friction from the developer experience. I often describe myself as someone doing the "backend" work of the frontend: frontend architecture and infrastructure. ⚙️ Probably working on the next tool or library to improve your day-to-day. 
 
-#### 📝 Latest Articles
+#### 📝 Latest Blog Posts
 
 - [Array.prototype.groupBy to the rescue!](https://www.charpeni.com/blog/array-prototype-group-by-to-the-rescue)
 - [Wrapping Gatsby's <Link> with TypeScript](https://www.charpeni.com/blog/wrapping-gatsbys-link-with-typescript)
