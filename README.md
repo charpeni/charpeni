@@ -5,7 +5,7 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 #### 📝 Latest Blog Posts
 
 - [Array.prototype.groupBy to the rescue!](https://www.charpeni.com/blog/array-prototype-group-by-to-the-rescue)
-- [Wrapping Gatsby's <Link> with TypeScript](https://www.charpeni.com/blog/wrapping-gatsbys-link-with-typescript)
+- [Wrapping Gatsby's `<Link>` with TypeScript](https://www.charpeni.com/blog/wrapping-gatsbys-link-with-typescript)
 - [Setting up an Example App for Your React Native Library](https://www.charpeni.com/blog/setting-up-an-example-app-for-your-react-native-library)
 
 <p align="center">
