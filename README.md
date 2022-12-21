@@ -4,6 +4,7 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 
 #### 📝 Latest Blog Posts
 
+- [Agile Rotisserie](https://www.charpeni.com/blog/agile-rotisserie)
 - [Be Careful With JavaScript Default Parameters!](https://www.charpeni.com/blog/be-careful-with-javascript-default-parameters)
 - [Find What Commit Introduced a Bug With Git Bisect](https://www.charpeni.com/blog/find-what-commit-introduced-a-bug-with-git-bisect)
 - [Array.prototype.groupBy to the rescue!](https://www.charpeni.com/blog/array-prototype-group-by-to-the-rescue)
