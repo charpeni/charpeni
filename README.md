@@ -4,12 +4,11 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 
 #### 📝 Latest Blog Posts
 
-- [Agile Rotisserie](https://www.charpeni.com/blog/agile-rotisserie)
-- [Be Careful With JavaScript Default Parameters!](https://www.charpeni.com/blog/be-careful-with-javascript-default-parameters)
-- [Find What Commit Introduced a Bug With Git Bisect](https://www.charpeni.com/blog/find-what-commit-introduced-a-bug-with-git-bisect)
-- [Array.prototype.groupBy to the rescue!](https://www.charpeni.com/blog/array-prototype-group-by-to-the-rescue)
-- [Wrapping Gatsby's `<Link>` with TypeScript](https://www.charpeni.com/blog/wrapping-gatsbys-link-with-typescript)
-- [Setting up an Example App for Your React Native Library](https://www.charpeni.com/blog/setting-up-an-example-app-for-your-react-native-library)
+- [Testing TypeScript Types: Part 2](https://www.charpeni.com/blog/testing-typescript-types-part-2)
+- [Testing TypeScript Types: Part 1](https://www.charpeni.com/blog/testing-typescript-types-part-1)
+- [Properly type Object.keys and Object.entries](https://www.charpeni.com/blog/properly-type-object-keys-and-object-entries)
+- [Use Custom Merge Driver to Simplify Git Conflicts](https://www.charpeni.com/blog/use-custom-merge-driver-to-simplify-git-conflicts)
+- [Enforce Best Practices Incrementally With Betterer](https://www.charpeni.com/blog/enforce-best-practices-incrementally-with-betterer)
 
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
