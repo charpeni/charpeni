@@ -4,6 +4,8 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 
 #### 📝 Latest Blog Posts
 
+- [GraphQL Enums Are Unsafe](https://www.charpeni.com/blog/graphql-enums-are-unsafe)
+- [Open-Ended Unions and Autocomplete With TypeScript](https://www.charpeni.com/blog/open-ended-unions-and-autocomplete-with-typescript)
 - [Testing TypeScript Types: Part 2](https://www.charpeni.com/blog/testing-typescript-types-part-2)
 - [Testing TypeScript Types: Part 1](https://www.charpeni.com/blog/testing-typescript-types-part-1)
 - [Properly type Object.keys and Object.entries](https://www.charpeni.com/blog/properly-type-object-keys-and-object-entries)
