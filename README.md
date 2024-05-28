@@ -4,6 +4,7 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 
 #### 📝 Latest Blog Posts
 
+- [TypeScript Tips: Safely Using includes With ReadonlyArrays](https://www.charpeni.com/blog/typescript-tips-safely-using-includes-with-readonlyarrays)
 - [Speeding up ESLint—Even on CI](https://www.charpeni.com/blog/speeding-up-eslint-even-on-ci)
 - [Apollo Client's Hidden Gems: Interface-Based Type Policies](https://www.charpeni.com/blog/apollo-client-hidden-gems-interface-based-type-policies)
 - [UI Flickering With Apollo Client: Previous Data to the Rescue!](https://www.charpeni.com/blog/ui-flickering-with-apollo-client-previous-data-to-the-rescue)
