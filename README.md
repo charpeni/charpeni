@@ -4,12 +4,12 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 
 #### 📝 Latest Blog Posts
 
+- [Minimizing Risk: Properly and Safely Resolving CVEs in Your Dependencies](https://www.charpeni.com/blog/minimizing-risk-properly-and-safely-resolving-cves-in-your-dependencies)
 - [TypeScript Tips: Safely Using includes With ReadonlyArrays](https://www.charpeni.com/blog/typescript-tips-safely-using-includes-with-readonlyarrays)
 - [Speeding up ESLint—Even on CI](https://www.charpeni.com/blog/speeding-up-eslint-even-on-ci)
 - [Apollo Client's Hidden Gems: Interface-Based Type Policies](https://www.charpeni.com/blog/apollo-client-hidden-gems-interface-based-type-policies)
 - [UI Flickering With Apollo Client: Previous Data to the Rescue!](https://www.charpeni.com/blog/ui-flickering-with-apollo-client-previous-data-to-the-rescue)
 - [GraphQL Enums Are Unsafe](https://www.charpeni.com/blog/graphql-enums-are-unsafe)
-- [Open-Ended Unions and Autocomplete With TypeScript](https://www.charpeni.com/blog/open-ended-unions-and-autocomplete-with-typescript)
 
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
