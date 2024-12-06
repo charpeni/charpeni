@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm mainly playing with React Native, React, GraphQL, and various Continuous Integrations. I'm an open-source enthusiast (of course!), and I enjoy removing friction from the developer experience. I often describe myself as someone doing the "backend" work of the frontend: frontend architecture and infrastructure. ⚙️ Probably working on the next tool or library to improve your day-to-day. 
+I mainly play with React Native, React, GraphQL, and various continuous integrations. I'm an open-source enthusiast (of course!) and enjoy removing friction from the developer experience. I often describe myself as someone doing the "backend" work of the frontend: frontend architecture and infrastructure. ⚙️ Probably working on the next tool or library to improve your day-to-day. 
 
 #### 📝 Latest Blog Posts
 
@@ -13,7 +13,8 @@ I'm mainly playing with React Native, React, GraphQL, and various Continuous Int
 
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
-  <b><a href="https://twitter.com/charpeni_">Twitter</a></b>  |
+  <b><a href="https://bsky.app/profile/charpeni.bsky.social">Bluesky</a></b> |
+  <b><a href="https://twitter.com/charpeni_">Twitter</a></b> |
   <b><a href="https://www.linkedin.com/in/nicolas-charpentier-8a2b8a104/">LinkedIn</a></b> |
   <b><a href="https://charpeni.com">Personal Website</a></b>
 </p>
