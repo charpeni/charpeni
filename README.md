@@ -4,12 +4,12 @@ I mainly play with React Native, React, GraphQL, and various continuous integrat
 
 #### 📝 Latest Blog Posts
 
+- [Don't Blindly Use `useTransition` Everywhere](https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere)
 - [How to Easily Reproduce a Flaky Test in Playwright](https://www.charpeni.com/blog/how-to-easily-reproduce-a-flaky-test-in-playwright)
 - [Minimizing Risk: Properly and Safely Resolving CVEs in Your Dependencies](https://www.charpeni.com/blog/minimizing-risk-properly-and-safely-resolving-cves-in-your-dependencies)
-- [TypeScript Tips: Safely Using includes With ReadonlyArrays](https://www.charpeni.com/blog/typescript-tips-safely-using-includes-with-readonlyarrays)
+- [TypeScript Tips: Safely Using `includes` With `ReadonlyArrays`](https://www.charpeni.com/blog/typescript-tips-safely-using-includes-with-readonlyarrays)
 - [Speeding up ESLint—Even on CI](https://www.charpeni.com/blog/speeding-up-eslint-even-on-ci)
 - [Apollo Client's Hidden Gems: Interface-Based Type Policies](https://www.charpeni.com/blog/apollo-client-hidden-gems-interface-based-type-policies)
-- [UI Flickering With Apollo Client: Previous Data to the Rescue!](https://www.charpeni.com/blog/ui-flickering-with-apollo-client-previous-data-to-the-rescue)
 
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
