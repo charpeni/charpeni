@@ -4,12 +4,12 @@ I mainly play with React Native, React, GraphQL, and various continuous integrat
 
 #### 📝 Latest Blog Posts
 
+- [Bun Code Coverage Gap](https://www.charpeni.com/blog/bun-code-coverage-gap)
 - [Configure `Go to Definition` to Open TypeScript Source](https://www.charpeni.com/blog/configure-go-to-definition-to-open-typescript-source)
 - [Don't Blindly Use `useTransition` Everywhere](https://www.charpeni.com/blog/dont-blindly-use-usetransition-everywhere)
 - [How to Easily Reproduce a Flaky Test in Playwright](https://www.charpeni.com/blog/how-to-easily-reproduce-a-flaky-test-in-playwright)
 - [Minimizing Risk: Properly and Safely Resolving CVEs in Your Dependencies](https://www.charpeni.com/blog/minimizing-risk-properly-and-safely-resolving-cves-in-your-dependencies)
 - [TypeScript Tips: Safely Using `includes` With `ReadonlyArrays`](https://www.charpeni.com/blog/typescript-tips-safely-using-includes-with-readonlyarrays)
-- [Speeding up ESLint—Even on CI](https://www.charpeni.com/blog/speeding-up-eslint-even-on-ci)
 
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
