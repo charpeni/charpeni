@@ -4,11 +4,11 @@ I mainly play with React Native, React, GraphQL, and various continuous integrat
 
 #### 📝 Latest Blog Posts
 
+- [The Bun CVE Gap: When Your Package Manager Can't Do Surgical Updates](https://charpeni.com/blog/the-bun-cve-gap-when-your-package-manager-cant-do-surgical-updates)
 - [Stop Using Yarn Classic](https://charpeni.com/blog/stop-using-yarn-classic)
 - [Protecting Against Compromised Packages with Minimum Release Age](https://charpeni.com/blog/protecting-against-compromised-packages-with-minimum-release-age)
 - [Access Your Homelab Services Without Memorizing IPs and Ports](https://charpeni.com/blog/access-homelab-services-without-memorizing-ips)
 - [Bun Code Coverage Gap](https://charpeni.com/blog/bun-code-coverage-gap)
-- [Configure `Go to Definition` to Open TypeScript Source](https://charpeni.com/blog/configure-go-to-definition-to-open-typescript-source)
 - [Don't Blindly Use `useTransition` Everywhere](https://charpeni.com/blog/dont-blindly-use-usetransition-everywhere)
 
 <p align="center">
