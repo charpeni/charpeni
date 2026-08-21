@@ -4,12 +4,12 @@ I mainly play with React Native, React, GraphQL, and various continuous integrat
 
 #### 📝 Latest Blog Posts
 
+- [The Bun CVE Gap, Closed: Surgical Updates Land in Bun 1.4](https://charpeni.com/blog/the-bun-cve-gap-closed-surgical-updates-land-in-bun-1-4)
+- [Surgical Transitive Updates with pnpm: audit --fix](https://charpeni.com/blog/surgical-transitive-updates-with-pnpm-audit-fix)
 - [Visualizing Garmin Data and Building a Personal AI Training Assistant](https://charpeni.com/blog/visualizing-garmin-data-and-building-a-personal-ai-training-assistant)
 - [AI Turned Every Engineer Into a Tech Lead. Most Don't Know It Yet.](https://charpeni.com/blog/ai-turned-every-engineer-into-a-tech-lead-most-dont-know-it-yet)
 - [The Bun CVE Gap: When Your Package Manager Can't Do Surgical Updates](https://charpeni.com/blog/the-bun-cve-gap-when-your-package-manager-cant-do-surgical-updates)
 - [Stop Using Yarn Classic](https://charpeni.com/blog/stop-using-yarn-classic)
-- [Protecting Against Compromised Packages with Minimum Release Age](https://charpeni.com/blog/protecting-against-compromised-packages-with-minimum-release-age)
-- [Access Your Homelab Services Without Memorizing IPs and Ports](https://charpeni.com/blog/access-homelab-services-without-memorizing-ips)
 
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
