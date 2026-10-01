@@ -4,7 +4,7 @@ I mainly play with React Native, React, GraphQL, and various continuous integrat
 
 #### 📝 Latest Blog Posts
 
-- [Enforcing Best Practices with Jev as a Linter]()
+- [Enforcing Best Practices with Jev as a Linter](https://charpeni.com/blog/enforcing-best-practices-with-jev-as-a-linter)
 - [The Bun CVE Gap, Closed: Surgical Updates Land in Bun 1.4](https://charpeni.com/blog/the-bun-cve-gap-closed-surgical-updates-land-in-bun-1-4)
 - [Surgical Transitive Updates with pnpm: audit --fix](https://charpeni.com/blog/surgical-transitive-updates-with-pnpm-audit-fix)
 - [Visualizing Garmin Data and Building a Personal AI Training Assistant](https://charpeni.com/blog/visualizing-garmin-data-and-building-a-personal-ai-training-assistant)
