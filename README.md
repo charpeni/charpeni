@@ -4,12 +4,12 @@ I mainly play with React Native, React, GraphQL, and various continuous integrat
 
 #### 📝 Latest Blog Posts
 
+- [Domain-Driven Design with Alchemy Domain and Effect](https://charpeni.com/blog/domain-driven-design-with-alchemy-domain-and-effect)
+- [Your Infrastructure Belongs Next to Your Code: Moving bilan to Alchemy](https://charpeni.com/blog/your-infrastructure-belongs-next-to-your-code-moving-bilan-to-alchemy)
 - [The Bun Dependabot Gap: Dependabot Alerts Don't See bun.lock](https://charpeni.com/blog/the-bun-dependabot-gap-dependabot-alerts-dont-see-bun-lock)
 - [Enforcing Best Practices with Jev as a Linter](https://charpeni.com/blog/enforcing-best-practices-with-jev-as-a-linter)
 - [The Bun CVE Gap, Closed: Surgical Updates Land in Bun 1.4](https://charpeni.com/blog/the-bun-cve-gap-closed-surgical-updates-land-in-bun-1-4)
 - [Surgical Transitive Updates with pnpm: audit --fix](https://charpeni.com/blog/surgical-transitive-updates-with-pnpm-audit-fix)
-- [Visualizing Garmin Data and Building a Personal AI Training Assistant](https://charpeni.com/blog/visualizing-garmin-data-and-building-a-personal-ai-training-assistant)
-- [AI Turned Every Engineer Into a Tech Lead. Most Don't Know It Yet.](https://charpeni.com/blog/ai-turned-every-engineer-into-a-tech-lead-most-dont-know-it-yet)
 
 <p align="center">
   <b>🔎 You can also find me on:</b><br>
